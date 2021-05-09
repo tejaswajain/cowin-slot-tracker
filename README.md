@@ -1,4 +1,5 @@
 # cowin-slot-tracker
+Script to look for vaccination slots in the CoWin portal and send the message in Telegram if slots are available for 18+
 
 First of all to send slot notification, create a bot using Telegram BotFather. To create a BotFather follow the below steps –
 
